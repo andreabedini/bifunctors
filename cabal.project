@@ -1,0 +1,6 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/ekmett/comonad
+  tag: a56373d8981cee27cb3f07ca144565f4164047e1
